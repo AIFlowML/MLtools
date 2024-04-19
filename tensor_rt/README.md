@@ -23,7 +23,6 @@ Follow these steps to set up and run the installer:
 
 Navigate to your preferred download directory:
 
-```bash
 cd ~/downloads
 
 ### Download the required TensorRT files from NVIDIA:
