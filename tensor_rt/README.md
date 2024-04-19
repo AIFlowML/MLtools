@@ -28,7 +28,8 @@ cd ~/downloads
 ### Download the required TensorRT files from NVIDIA:
 
 
-# Download TensorRT TAR package for Linux x86_64 with CUDA 12.0 to 12.4 (Is possible that u have to manually DL them and not wget.
+# Download TensorRT TAR package for Linux x86_64 with CUDA 12.0 to 12.4 
+(Is possible that u have to manually DL them and not wget due to the develper licence login)
 wget https://developer.nvidia.com/tensorrt/download/10x/tensorrt-10.0.x.x-linux-x86_64-gnu-cuda-12.x.tar.gz
 
 # Download TensorRT DEB package for Ubuntu 22.04 with CUDA 12.0 to 12.4
